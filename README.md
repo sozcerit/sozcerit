@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sinan</h1>
-<h3 align="center">A self-motivated tech enthusiast and Data Analyst from Germany</h3>
+<h3 align="center">A self-motivated tech enthusiast and Data Scientist from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sozcerit&label=Profile%20views&color=0e75b6&style=flat" alt="sozcerit" /> </p>
 
-
-<p align="left"> <a href="https://twitter.com/sinan_ozcerit" target="blank"><img src="https://img.shields.io/twitter/follow/sinan_ozcerit?logo=twitter&style=for-the-badge" alt="sinan_ozcerit" /></a> </p>
 
 - 📫 How to reach me **sozcerit@gmail.com**
 
